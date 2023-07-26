@@ -3,3 +3,12 @@
 spring:
   config:
     import: application-aws.yml
+
+
+
+logging:
+  level:
+    com:
+      amazonaws:
+        util:
+          EC2MetadataUtils: error
