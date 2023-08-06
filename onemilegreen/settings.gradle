@@ -1,1 +1,8 @@
 rootProject.name = 'onemilegreen'
+include 'api'
+include 'db'
+include 'db'
+include 'db'
+include 'db'
+include 'db'
+
